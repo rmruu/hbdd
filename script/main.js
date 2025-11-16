@@ -2,7 +2,7 @@
 window.addEventListener('load', () => {
     Swal.fire({
         title: 'Are you ready?',
-        // text: "Sebelumnya klik titk tiga di pojok kanan atas dan centang desktop site",
+        // text: "Sebelumnya klik titik tiga di pojok kanan atas dan centang desktop site",
         icon: 'warning',
         showCancelButton: true,
         confirmButtonColor: '#3085d6',
