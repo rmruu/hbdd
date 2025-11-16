@@ -1,8 +1,8 @@
 // trigger to play music in the background with sweetalert
 window.addEventListener('load', () => {
     Swal.fire({
-        title: 'Are you ready?',
-        // text: "Sebelumnya klik titik tiga di pojok kanan atas dan centang desktop site",
+        title: 'Sebelumnya klik titik tiga di pojok kanan atas dan centang desktop site',
+        // text: "Are you ready?",
         icon: 'warning',
         showCancelButton: true,
         confirmButtonColor: '#3085d6',
