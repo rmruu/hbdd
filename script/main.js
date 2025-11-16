@@ -2,7 +2,7 @@
 window.addEventListener('load', () => {
     Swal.fire({
         title: 'Are you ready?',
-        // text: "You won't be able to revert this!",
+        // text: "Sebelumnya klik titk tiga di pojok kanan atas dan centang desktop site",
         icon: 'warning',
         showCancelButton: true,
         confirmButtonColor: '#3085d6',
